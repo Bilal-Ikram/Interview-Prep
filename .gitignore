@@ -1,0 +1,23 @@
+# Ignore system and backup files
+*.log
+*.zip
+*.rar
+*.exe
+*.dll
+*.ini
+*.pptx
+*.xlsx
+*.jpg
+*.png
+*.tmp
+*.bak
+
+# Node, Python, etc. (if using)
+node_modules/
+__pycache__/
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
